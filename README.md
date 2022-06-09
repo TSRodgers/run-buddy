@@ -1,14 +1,18 @@
-# run-buddy
+# run-buddy .
 
-## Purpose 
+## Purpose
+
 A website that offers fitness training services
 
-## Built with 
-* HTML
-* CSS
+## Built with
 
-## Website 
+- HTML
+- CSS
+
+## Website
+
 https://tsrodgers.github.io/run-buddy/
 
-## Contribution 
+## Contribution
+
 Made with <3 by Tyler Rodgers
