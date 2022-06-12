@@ -1,18 +1,16 @@
 # Run Buddy, Inc
 
-A website that offers fitness training services
+## Purpose
+A website that offers fitness training services. 
 
-## Built with
-
-- HTML
-- CSS
+## Built With
+* HTML
+* CSS
 
 ## Website
-
-https://tsrodgers.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
+Made with ❤️ by [your name]
 
-Made with <3 by Tyler Rodgers
-
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
